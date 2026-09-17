@@ -231,21 +231,6 @@ The dashboard allows users to explore artist performance, track popularity, genr
 
 ---
 
-🚀 Future Enhancements
-
-The project can be extended by:
-
-- Using a larger dataset.
-- Adding more recent Spotify data.
-- Creating predictive models for stream counts.
-- Applying machine learning to predict song popularity.
-- Performing sentiment analysis on song lyrics.
-- Adding real-time streaming data.
-- Comparing Spotify performance with other music platforms.
-- Developing a recommendation system.
-
----
-
 👩‍💻 Project Type
 
 Mini Project — Data Analytics
